@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aws-app/static/css/main.23408bc5.css",
+    "main.js": "/aws-app/static/js/main.91aa1c85.js",
+    "static/js/787.13d78d19.chunk.js": "/aws-app/static/js/787.13d78d19.chunk.js",
+    "index.html": "/aws-app/index.html",
+    "main.23408bc5.css.map": "/aws-app/static/css/main.23408bc5.css.map",
+    "main.91aa1c85.js.map": "/aws-app/static/js/main.91aa1c85.js.map",
+    "787.13d78d19.chunk.js.map": "/aws-app/static/js/787.13d78d19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23408bc5.css",
+    "static/js/main.91aa1c85.js"
+  ]
+}
